@@ -12,6 +12,11 @@ Workflow can run:
 - **Automatically** on a schedule (Schedule Trigger)
 
 ---
+## Agent Workflow image
+
+![Weather Buddy Workflow](assets/n8nAgentWorkflowImage.png)
+
+---
 
 ## Configuration
 
