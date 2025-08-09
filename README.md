@@ -34,7 +34,8 @@ Workflow can run:
 | `TELEGRAM_BOT_TOKEN` | `123456:ABC...` |
 | `TELEGRAM_CHAT_ID` | `-1001234567890` |
 | `RUN_MODE` | `manual` or `schedule` |
-| `SCHEDULE_CRON` | `0 8 * * *` |
+| `SCHEDULE_HOUR` | `8` |
+| `SCHEDULE_MINUTE` | `0` |
 
 ### 3. Node Flow
 1. **Trigger** — Manual or Scheduled.
